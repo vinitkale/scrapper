@@ -51,7 +51,7 @@ $config = [
             'connection' => [
                 'imapPath' => '{imap.gmail.com:993/imap/ssl}INBOX',
                 'imapLogin' => 'ankitaranya8@gmail.com',
-                'imapPassword' => 'Mlr!101990',
+                'imapPassword' => '',
                 'serverEncoding'=>'utf-8', // utf-8 default.
                 'attachmentsDir'=>'/'
             ],
